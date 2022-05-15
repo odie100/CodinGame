@@ -1,0 +1,3 @@
+# CodinGame
+There are some solutions for codinGame challenge!
+You can put your solution here....
